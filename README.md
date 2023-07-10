@@ -10,10 +10,10 @@
 <hr>
 
 <h2> Features 🚀 </h2> 
-<h3> 1. Doctor's appointment portal </h3>
-<h3> 2. Blood Donar portal </h3>
-<h3> 3. Cheapest Medicine </h3>
-<h3> 4. Disease Detection </h3>
+<h3> 1. Find Cheapest Medicine(using webscrapping and ML) </h3>
+<h3> 2. Disease Detection using ML  </h3>
+<h3> 3. Doctor's appointment </h3>
+<h3> 4. Portal to find Blood donors </h3>
 <h3> 5. AI Chatbot for Individuals suffering from Depression </h3>
 <hr>
 
